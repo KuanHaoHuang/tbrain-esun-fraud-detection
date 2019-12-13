@@ -1,6 +1,6 @@
-# 玉山人工智慧公開挑戰賽 2019 秋季賽 真相只有一個『信用卡盜刷偵測』
-## Top 1% Solution
-競賽網址：https://tbrain.trendmicro.com.tw/Competitions/Details/10
+# T-brain 2019 秋季賽：Top 1% Solution
+* 競賽名稱：玉山人工智慧公開挑戰賽 2019 秋季賽 真相只有一個『信用卡盜刷偵測』
+* 競賽網址：https://tbrain.trendmicro.com.tw/Competitions/Details/10
 
 ## 參賽成績
 * Team: StarRingChild
