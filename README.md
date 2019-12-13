@@ -3,9 +3,9 @@
 * 競賽網址：https://tbrain.trendmicro.com.tw/Competitions/Details/10
 
 ## 參賽成績
-* Team: StarRingChild
-* Rank: 11th / 1,366 Teams (Top 1%) 
-* Private Leaderboard F1_Score: 0.679
+* Team: **StarRingChild**
+* Rank: **11th** / 1,366 Teams (Top 1%) 
+* Private Leaderboard F1_Score: **0.679**
 
 ## Git Repo 說明
 * 「創意做法擂台戰」所分享之做法海報、及閃電講簡報在 doc
